@@ -1,26 +1,17 @@
 {
-  "name": "todo_api",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NVanVuong/todo_api.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NVanVuong/todo_api/issues"
-  },
-  "homepage": "https://github.com/NVanVuong/todo_api#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
-    "json-server": "^0.17.3"
-  }
+    "express": "^4.18.2",
+    "json-server": "^0.16.3",
+    "json-server-auth": "^2.1.0",
+    "query-string": "^7.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "booking-app",
+  "version": "1.0.0",
+  "main": " index.js",
+  "author": "",
+  "license": "MIT",
+  "description": ""
 }
