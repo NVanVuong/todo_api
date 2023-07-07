@@ -1,0 +1,44 @@
+{
+  "todo": [
+    {
+      "id": "c11814fd-77e9-4c8c-8fd5-3b843e4dcd1a",
+      "title": "Jog around the park 3x",
+      "status": "Pending"
+    },
+    {
+      "id": "a207f92d-0f3d-4134-b5f3-4d2f0cfd80d1",
+      "title": "10 minutes meditation",
+      "status": "In progress"
+    },
+    {
+      "id": "3e0e9245-6f53-4fa5-8b89-5c848b036ca9",
+      "title": "Read for 1 hour",
+      "status": "Pending"
+    },
+    {
+      "id": "c5ef4fe1-42a4-4e69-a9ce-9d95a704b313",
+      "title": "Pick up groceries",
+      "status": "Done"
+    },
+    {
+      "id": "f52b0fc2-5c0f-41e6-941d-9e35273b42d7",
+      "title": "Complete Todo App",
+      "status": "Done"
+    },
+    {
+      "id": "8be105a2-5019-4b5f-90fd-f59c2b2c9d29",
+      "title": "Go for a run",
+      "status": "Pending"
+    },
+    {
+      "id": "3767e272-5e13-43ef-8cc6-03c07b8928fc",
+      "title": "Finish writing report",
+      "status": "In progress"
+    },
+    {
+      "id": "a2e3e205-bc17-417c-9eef-00e4e226b47f",
+      "title": "Prepare dinner",
+      "status": "Pending"
+    }
+  ]
+}
